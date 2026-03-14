@@ -15,3 +15,6 @@ Multi-touch attribution event data from Kaggle (touchpoint-level) + a path-level
 - `.twb` Tableau workbook
 - `.pdf` report (method + insights)
 - `/assets` exported dashboard images
+
+## Tableau (Story)
+- https://public.tableau.com/app/profile/aadhithya.roy/viz/Multi-TouchAttributionStory/Multi-TouchAttributionStory
